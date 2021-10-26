@@ -1,0 +1,12 @@
+ body {
+      background-image: url('../images/bg.jpg');
+    }
+
+.purple { 
+  color: purple;
+  font-weight: bold;
+}
+
+.lesspurple {
+  color:lightslategray;
+}
