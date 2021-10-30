@@ -4,6 +4,9 @@
       /* background-image: url('../images/bg.jpg'); */
     }
 
+p, li {
+  font-family: Arial, Helvetica, sans-serif;
+}
 .purple { 
   color: purple;
   font-weight: bold;
@@ -14,7 +17,7 @@
 
 }
     
-.groover {
+.pacifico {
   font-family: 'Pacifico', cursive;
   color: red;
 }
